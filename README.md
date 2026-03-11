@@ -58,7 +58,4 @@ Scarica l’ultima versione da:
 Non richiede installazione.  
 Basta avviare l’eseguibile.
 
----
-
-## 🗂 Struttura del repository
 
