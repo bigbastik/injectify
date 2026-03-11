@@ -1,4 +1,4 @@
-# 🚀 Injectify 3.0 Ultra  
+# 🚀 Injectify
 ### HTML Injector + Code Analyzer + Auto‑Fixer (Windows EXE)
 
 Injectify è un’applicazione avanzata per Windows che permette di modificare automaticamente file HTML, HTM e PHP, inserendo codice in punti specifici della pagina.  
@@ -57,5 +57,6 @@ Scarica l’ultima versione da:
 
 Non richiede installazione.  
 Basta avviare l’eseguibile.
+
 
 
